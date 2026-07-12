@@ -1,7 +1,6 @@
 import pdfplumber
 
 
-# Function to read all text from a PDF
 def extract_text_from_pdf(pdf_path):
 
     text = ""   
