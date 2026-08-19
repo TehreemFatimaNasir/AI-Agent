@@ -108,7 +108,7 @@ The application will open in your browser.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Upload Contract**
    Upload a PDF contract through the application.
