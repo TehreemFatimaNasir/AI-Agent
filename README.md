@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/db6576ed-49c4-4190-8ca2-32a56445b267
+
 # 🛡️ Legal Shield AI
 
 **Legal Shield** is an AI-powered legal document assistant built with **Streamlit, Agno, and Google Gemini**. It allows users to upload a contract PDF and interact with an AI assistant to understand the contract, identify risky clauses, and get suggestions for improving unfair terms.
